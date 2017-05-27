@@ -1,2 +1,1 @@
-# Deep-Learning
-My Udacity Homework
+# dlnd-face-generation
